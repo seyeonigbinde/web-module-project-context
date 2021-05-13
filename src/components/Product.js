@@ -1,5 +1,6 @@
 import React from 'react';
 
+
 const Product = props => {
 	return (
 		<div className="product">
@@ -17,3 +18,5 @@ const Product = props => {
 };
 
 export default Product;
+
+
